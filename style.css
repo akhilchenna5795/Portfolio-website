@@ -1,0 +1,168 @@
+#Akhil-image{
+  position:relative;
+  left:50px;
+  top:120px;
+  height:300px;
+}
+
+#home-name{
+  position:relative;
+  left:80px;
+  top:150px;
+}
+
+#home-branch1{
+  position:relative;
+  left:30px;
+  top:160px;
+}
+
+#home-branch2{
+  position:relative;
+  left:110px;
+  top:160px;
+}
+
+#home-link{
+  position:relative;
+  left:5px;
+  top:180px;
+}
+
+#icon-facebook{
+  position:relative;
+  left:50px;
+  top:200px;
+  transition: transform .2s;
+}
+
+#icon-facebook:hover {
+  transform: scale(1.2);
+}
+
+#icon-instagram{
+  position:relative;
+  left:70px;
+  top:200px;
+  transition: transform .2s;
+}
+
+#icon-instagram:hover {
+  transform: scale(1.2);
+}
+
+#icon-linkedin{
+  position:relative;
+  left:90px;
+  top:200px;
+  transition: transform .2s;
+}
+
+#icon-linkedin:hover {
+  transform: scale(1.2);
+}
+
+#icon-twitter{
+  position:relative;
+  left:110px;
+  top:200px;
+    transition: transform .2s;
+}
+
+#icon-twitter:hover {
+  transform: scale(1.2);
+}
+
+#home-about{
+  position:relative;
+  left:50px;
+  top:120px;
+}
+
+#about-info{
+  position:relative;
+  left:50px;
+  top:140px;
+  font-size: 1.5em;
+}
+
+#icon-programmer{
+  position:relative;
+  left:100px;
+  top:170px;
+}
+
+#home-list{
+  position:relative;
+  left:150px;
+  top:110px;
+}
+
+#aiesec-logo{
+  position:relative;
+  left:100px;
+  top:110px;
+}
+
+#aiesec-info{
+  position:relative;
+  left:190px;
+  top:77px;
+}
+
+#education{
+  position:relative;
+  left:0px;
+}
+
+#accordion{
+  position:relative;
+  top:30px;
+}
+
+#skills-para{
+  font-size:1.1em;
+  position:relative;
+  top:20px;
+}
+
+#contact{
+  position:relative;
+  right:10px;
+}
+
+#mail{
+  position:relative;
+  left:10px;
+}
+
+#phone{
+  position:relative;
+  left:30px;
+}
+
+.form-group{
+  position:relative;
+  bottom:20px;
+}
+
+#poster{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+
+#methodology{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:70%;
+  height:550px;
+}
+
+/*Smooth Scrolling*/
+
+html{
+  scroll-behavior: smooth;
+}
